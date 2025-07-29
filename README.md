@@ -1,1 +1,1 @@
-# free-game
+# free-host
